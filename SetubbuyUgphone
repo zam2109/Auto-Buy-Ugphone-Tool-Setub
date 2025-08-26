@@ -9,6 +9,6 @@ yes | pkg update
 yes | pkg upgrade
 yes | pkg i python
 yes | pkg i python-pip
-pip install pip
+pip install urllib3 time
 export CFLAGS="-Wno-error=implicit-function-declaration"
 curl -Ls "https://raw.githubusercontent.com/zam2109/Auto-Buy-Ugphone-Tool-Setub/refs/heads/main/buyugphone.py" -o /sdcard/Download/buyugphone.py
