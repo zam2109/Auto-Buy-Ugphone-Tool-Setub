@@ -12,4 +12,4 @@ yes | pkg i python-pip
 pip install requests rich prettytable pytz pycryptodome
 export CFLAGS="-Wno-error=implicit-function-declaration"
 pip install psutil
-curl -Ls "https://raw.githubusercontent.com/zam2109/Toolrejoin/refs/heads/main/zamtoolrejoin.py" -o /sdcard/Download/zamtoolrejoin.py
+curl -Ls "https://raw.githubusercontent.com/zam2109/Auto-Buy-Ugphone-Tool-Setub/refs/heads/main/buyugphone.py" -o /sdcard/Download/buyugphone.py
